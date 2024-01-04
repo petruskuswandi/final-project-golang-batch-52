@@ -2,11 +2,11 @@ package config
 
 import "os"
 
-var DB_CONNECTION = "mysql"
-var DB_HOST = "127.0.0.1"
-var DB_PORT = "3306"
-var DB_DATABASE = "final_project_golang_batch_52"
-var DB_USERNAME = "root"
+var DB_CONNECTION = ""
+var DB_HOST = ""
+var DB_PORT = ""
+var DB_DATABASE = ""
+var DB_USERNAME = ""
 var DB_PASSWORD = ""
 
 func InitDatabaseConfig() {
