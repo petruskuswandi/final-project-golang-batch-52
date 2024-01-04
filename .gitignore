@@ -1,3 +1,5 @@
 .air.toml
 tmp/*
 logs/*
+.env
+.env copy
